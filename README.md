@@ -25,6 +25,58 @@ A well-structured dashboard that helps to:
 - Identify high-risk student groups.
 - Understand major contributing factors to student depression.
 - Provide potential recommendations for wellness initiatives.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# 📊 Tableau Superstore Sales Dashboard
+
+This project presents a dynamic and insightful sales dashboard built using **Tableau Desktop**. It leverages the **Sample Superstore Sales dataset** to uncover key business metrics and visualize trends in sales and profitability across regions, categories, and time.
 
 ---
+
+## 📁 Project Structure
+
+- `Sample - Superstore Sales (Excel).xls` – Raw sales dataset  
+- `TABLEAU DASHBOARD 1.twb` – Tableau dashboard workbook
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Tableau Desktop**  
+- **Microsoft Excel**  
+
+---
+
+## 🔍 Dashboard Features
+
+- **Sales & Profit Analysis** across Regions, Categories, and Sub-Categories  
+- **Top/Bottom Performing Products**  
+- **Year-over-Year Trend Visualization**  
+- **Order & Shipping Data Insights**  
+- **Interactive Filters** for dynamic exploration  
+
+---
+
+## 💡 Key Takeaways
+
+- Visual storytelling with real-world business data  
+- Data-driven insights for retail sales performance  
+- Interactive design for executive decision-making  
+
+---
+
+## 📌 Skills Applied
+
+- Data Visualization  
+- Dashboard Design  
+- Trend & KPI Analysis  
+- Business Intelligence Reporting  
+
+---
+
+
+
+## 📝 License
+
+This project is for educational and personal portfolio use.
+
